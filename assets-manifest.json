@@ -1,0 +1,1436 @@
+[
+  {
+    "path": "dist/assets/brand/lunaria-logo.png",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/brand/lunaria-logo.png",
+    "sha256": "c95782cffeb266bf7a44b1cf4c76169fe35c759151bdb2d04446c81dd02fe633",
+    "size": 14081
+  },
+  {
+    "path": "dist/assets/brand/lunaria-navbar-reveal.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/brand/lunaria-navbar-reveal.mp4",
+    "sha256": "40a050a537c4b6d8f802bb633326daff5fb59fb39134a7a0f91e9b59f263c9f7",
+    "size": 34454
+  },
+  {
+    "path": "dist/assets/logos/1.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/1.webp",
+    "sha256": "472fa1416233f7756e1b5ad590b5e9d3031624837355d438f11a16a46d74adc4",
+    "size": 6706
+  },
+  {
+    "path": "dist/assets/logos/2.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/2.webp",
+    "sha256": "6c70e8d52a612f9cc64941765d89721fc16a550701009cbf069f50aae4226ebd",
+    "size": 5486
+  },
+  {
+    "path": "dist/assets/logos/3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/3.webp",
+    "sha256": "a01919c76c178a0e0421954d5037f85db2e90d6e4c6664df957a33a2c2e7b6c7",
+    "size": 2972
+  },
+  {
+    "path": "dist/assets/logos/4.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/4.webp",
+    "sha256": "92b4ee2a09c5be64a5080fdc0adcc65dc4d9e9dad6d555d0316decf4cbbbe98b",
+    "size": 5274
+  },
+  {
+    "path": "dist/assets/logos/5.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/5.webp",
+    "sha256": "aa866977d992d8344622a061937ede06cb1fd3a59c241631f59ff99820795ce0",
+    "size": 5338
+  },
+  {
+    "path": "dist/assets/logos/6.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/6.webp",
+    "sha256": "4d8f6037268ac977f3f13d08f31d5b9893e0589b7e7358d6fe204a33ad9aa368",
+    "size": 4374
+  },
+  {
+    "path": "dist/assets/logos/7.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/7.webp",
+    "sha256": "af75a1f740f5883d2bd3ccf3803d08fcedae0f844ae06cc651e12e6f053f5dbc",
+    "size": 5180
+  },
+  {
+    "path": "dist/assets/logos/8.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/8.webp",
+    "sha256": "77eee36c59e4289044dc2ea8fdf573c4c0f6d127849cfe45abcff81cbf704359",
+    "size": 4678
+  },
+  {
+    "path": "dist/assets/logos/client-bbtrader.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/client-bbtrader.webp",
+    "sha256": "a4d4bb2641c35004fab9cfb00438885616e3057af46a6794bfbc43eeeec78ab4",
+    "size": 100314
+  },
+  {
+    "path": "dist/assets/logos/client-pehwar.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/client-pehwar.webp",
+    "sha256": "c5ce9ec841ff6d3a67e67536759ebf280bb5ae7ea373174b3ff5c467d94c5a09",
+    "size": 5180
+  },
+  {
+    "path": "dist/assets/logos/client-scy.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/logos/client-scy.webp",
+    "sha256": "de98b0695ac97eec185e78962f38ce0e3ada67988fe74bbfb988f2544d797263",
+    "size": 63018
+  },
+  {
+    "path": "dist/assets/media/bike.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/bike.mp4",
+    "sha256": "423354e76d8bc1e488cab7e2e08192fc8b604febe8cb4c4c4b4d3f02644f09a8",
+    "size": 10525727
+  },
+  {
+    "path": "dist/assets/media/bike2.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/bike2.mp4",
+    "sha256": "0a3d4aa801c539501bfcf1632f91016a210fcb02836b023b49d167b964acf045",
+    "size": 3773759
+  },
+  {
+    "path": "dist/assets/media/bike3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/bike3.mp4",
+    "sha256": "ce9ab42a308c34a7c96228e4f4d3cdba33e589112f6f42503498629aeecc6f69",
+    "size": 7463278
+  },
+  {
+    "path": "dist/assets/media/budvspro.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/budvspro.mp4",
+    "sha256": "2f37e6d8d696d1898a93215387f4faff0f7271201d4b0ec0c432687feebbe668",
+    "size": 1439465
+  },
+  {
+    "path": "dist/assets/media/budvspro2.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/budvspro2.mp4",
+    "sha256": "984eb2e705211fc017c93d113df3f6b1a650176c2e55590ce1327a17e7736313",
+    "size": 2926907
+  },
+  {
+    "path": "dist/assets/media/budvspro3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/budvspro3.mp4",
+    "sha256": "7b5607f2f573ebd7abc8252db25261877eed2f4cf284092b192c19f71d398eaa",
+    "size": 2608361
+  },
+  {
+    "path": "dist/assets/media/budvspro4.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/budvspro4.mp4",
+    "sha256": "08bb92ce7e01d3eda5cf26cf1204f5207745ca3ceac7e6372b4a8dd4e21d0b60",
+    "size": 4915389
+  },
+  {
+    "path": "dist/assets/media/budvspro5.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/budvspro5.mp4",
+    "sha256": "647753b6f5e26c73b3082d034e935c6dbef479a90a3e0d1a50b02d5a3942c69c",
+    "size": 2302068
+  },
+  {
+    "path": "dist/assets/media/helmet.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/helmet.mp4",
+    "sha256": "b9038882ed2a9eab8b8b5339c537095fd2f95d564156f1454e5fe3ad2cd19db0",
+    "size": 4362687
+  },
+  {
+    "path": "dist/assets/media/hire.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/hire.mp4",
+    "sha256": "78a8a45c985f5efdb49b79c66093935f72a6e43c51202263ad11e7c6bfd5c8c1",
+    "size": 5629795
+  },
+  {
+    "path": "dist/assets/media/interior3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/interior3.mp4",
+    "sha256": "428045665fc41c4a92527e6f572fed54adcb8e871561cc6ae94fc5fff780ef4e",
+    "size": 6102715
+  },
+  {
+    "path": "dist/assets/media/interior4.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/interior4.mp4",
+    "sha256": "f98979718fd392e887ef47e2c39fe3354310ef4a9a8a1f0f65a109c05a2d4c9c",
+    "size": 2769714
+  },
+  {
+    "path": "dist/assets/media/m2.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/m2.mp4",
+    "sha256": "1940c0abf5eb72ef22b8d61a5753aa28dc97353b2de1cbaa34e7a888d2c2bf67",
+    "size": 6868906
+  },
+  {
+    "path": "dist/assets/media/m3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/m3.mp4",
+    "sha256": "8476af9862365144fca98b3c0565703a9dc447cbfb464d8edf74ed1d81a89fa7",
+    "size": 6161244
+  },
+  {
+    "path": "dist/assets/media/m4.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/m4.mp4",
+    "sha256": "4cc9ef281faba2fbcd949e2f226ce7feb4224ee07bda8e73750bb58535a10e78",
+    "size": 4448564
+  },
+  {
+    "path": "dist/assets/media/m5.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/m5.mp4",
+    "sha256": "0093fd20ab775735ec41b2f8a40f36097108a3407ac5aae143e1574116d4b47a",
+    "size": 8002518
+  },
+  {
+    "path": "dist/assets/media/m6.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/m6.mp4",
+    "sha256": "77aa1717929f2c82bf6e1d8dd3feccb307349e9968134cc91b09e784fdd9d8ec",
+    "size": 5103588
+  },
+  {
+    "path": "dist/assets/media/r1.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/r1.mp4",
+    "sha256": "63385dac4a9b8e9f98655699a8e0b0e9cc7978154e4cddbab0b7c3a8c0baf9dd",
+    "size": 6605102
+  },
+  {
+    "path": "dist/assets/media/r2.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/r2.mp4",
+    "sha256": "d3ad0b373be143c4eaa1ff0eee3056a53600022bb025ae5fb1d859f9d6e4236c",
+    "size": 1696637
+  },
+  {
+    "path": "dist/assets/media/r3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/r3.mp4",
+    "sha256": "f6677348aae8ec3ba6c7425eb3d751d49d0a372189e1aee76cd55b8b0b4d5530",
+    "size": 6938650
+  },
+  {
+    "path": "dist/assets/media/r4.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/r4.mp4",
+    "sha256": "c5720a8e5a01d4559ccd92c6be37c0e48697d48d5f8eb3b0da71b5c5d334fbbd",
+    "size": 3536122
+  },
+  {
+    "path": "dist/assets/media/r5.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/r5.mp4",
+    "sha256": "b8fe8e522162d4927aeded6c33a6685381b4493873fa3ba9c3e2601d3d44896d",
+    "size": 3618360
+  },
+  {
+    "path": "dist/assets/media/showreel.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/showreel.mp4",
+    "sha256": "f871943bbc280336a43d874bdb97cdcf5d3d66971bc56226995f88a4062f52cd",
+    "size": 5702963
+  },
+  {
+    "path": "dist/assets/media/starbucks.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/starbucks.mp4",
+    "sha256": "a7062c5b4880d19c960e0b66eecc0357c8b7080b1ddc5b074a71002c84af85b4",
+    "size": 17143266
+  },
+  {
+    "path": "dist/assets/media/westin.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/media/westin.mp4",
+    "sha256": "e5a7bb8448bd0e131c4f5275c5b34a3fe18dfa6bb583007e04acd666f59547eb",
+    "size": 5525801
+  },
+  {
+    "path": "dist/assets/posters/bike.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/bike.webp",
+    "sha256": "ca91847f6b811afc491a4ea18374e45676249384015cad68746101db5fb8d1a9",
+    "size": 17020
+  },
+  {
+    "path": "dist/assets/posters/bike2.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/bike2.webp",
+    "sha256": "00dfaeddb4d514ba6a5b8f5e7119a6210afa650b86df0f1d5b903157eb42677a",
+    "size": 32824
+  },
+  {
+    "path": "dist/assets/posters/bike3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/bike3.webp",
+    "sha256": "5e7bc0e28641c9ffedfb21f8664700889ba5cced408f9dc4c9596b2ef9139fad",
+    "size": 34794
+  },
+  {
+    "path": "dist/assets/posters/budvspro.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/budvspro.webp",
+    "sha256": "08a58894bac470c057708fa465544c13b3c6aecfc93f1de4e3ccf91f68e25070",
+    "size": 20042
+  },
+  {
+    "path": "dist/assets/posters/budvspro2.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/budvspro2.webp",
+    "sha256": "ec5aeb6241c5332368ff4b230be38a250c369d83ee2cafff0f54f58cbcfc9d62",
+    "size": 18304
+  },
+  {
+    "path": "dist/assets/posters/budvspro3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/budvspro3.webp",
+    "sha256": "3f802d43f27e8aee325f93d52f9db6ca86f2c5fcde9d3f2beb1d28ff59550b17",
+    "size": 17524
+  },
+  {
+    "path": "dist/assets/posters/budvspro4.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/budvspro4.webp",
+    "sha256": "ff8b50eaf462e595e19464e90df47aa6ef788629b2e6b4a773536a650ff16ff8",
+    "size": 19476
+  },
+  {
+    "path": "dist/assets/posters/budvspro5.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/budvspro5.webp",
+    "sha256": "523707750ba022110cf9ed722bd33a8c455a9647223eda29774808aaf03c1eaf",
+    "size": 22742
+  },
+  {
+    "path": "dist/assets/posters/featured-helmet.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/featured-helmet.webp",
+    "sha256": "e11b3883e45fc60b296f63154c573d56f26dcc275245d054c8814ab0a47a5619",
+    "size": 57874
+  },
+  {
+    "path": "dist/assets/posters/featured-interior3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/featured-interior3.webp",
+    "sha256": "bcc270e9225ad907ab96688a997888ae1e8c1f205b4c38eecb72f4601dca3533",
+    "size": 92262
+  },
+  {
+    "path": "dist/assets/posters/featured-starbucks.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/featured-starbucks.webp",
+    "sha256": "220a8dfea238e4af3fbbe31ce75e5efefc4f09239fca77a9bd85c7ff0c0a8082",
+    "size": 94906
+  },
+  {
+    "path": "dist/assets/posters/featured-westin.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/featured-westin.webp",
+    "sha256": "08f042875db10f40866913cab036ba3cada56b0dbc8105858e6d2e81b5169100",
+    "size": 123312
+  },
+  {
+    "path": "dist/assets/posters/helmet.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/helmet.webp",
+    "sha256": "ad637e4c408d36e8a782d747cc3737c2452582146e4d0bc67cfcd89c42c5ad1a",
+    "size": 47666
+  },
+  {
+    "path": "dist/assets/posters/hire.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/hire.webp",
+    "sha256": "b65d40d9c29961fc9de27452d9b458d373c079733725b2633b358318806789b7",
+    "size": 42582
+  },
+  {
+    "path": "dist/assets/posters/interior3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/interior3.webp",
+    "sha256": "932e3b3def5bfc01645c9411e321f4cefdc26d10001c754f9b78ce6e89f8d057",
+    "size": 60624
+  },
+  {
+    "path": "dist/assets/posters/interior4.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/interior4.webp",
+    "sha256": "fc3ec29815e32b19255e48e496eca9447d0b4d67db4b7f81cdf12ecbedba9645",
+    "size": 36240
+  },
+  {
+    "path": "dist/assets/posters/m2.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/m2.webp",
+    "sha256": "7b6435fbbbdfc5e9dda6f87587a7ac0184be37a83ab16d0623968f32e8507027",
+    "size": 42212
+  },
+  {
+    "path": "dist/assets/posters/m3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/m3.webp",
+    "sha256": "8607ce3701e37c7fc82d7ba037625b2eef5b000c2997c7211c0b20c8746fd499",
+    "size": 33830
+  },
+  {
+    "path": "dist/assets/posters/m4.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/m4.webp",
+    "sha256": "b17ecdd872977ed20c97646eae2125caae87b0e7793af0edc242c67ec6d45c86",
+    "size": 30318
+  },
+  {
+    "path": "dist/assets/posters/m5.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/m5.webp",
+    "sha256": "5065b3592828b49e478e24c3f1824d3e3bba3b4e31067fe616e8d1b378660436",
+    "size": 56836
+  },
+  {
+    "path": "dist/assets/posters/m6.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/m6.webp",
+    "sha256": "87daba91eb2b0bcd103d490b96f3443ce3bf2179d3a47e9aebe11c4162f37754",
+    "size": 8918
+  },
+  {
+    "path": "dist/assets/posters/r1.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/r1.webp",
+    "sha256": "a701ae039d8682587e4a4eef24afdcefcd0f73b0e8aa191984aafb25aea6cae4",
+    "size": 31016
+  },
+  {
+    "path": "dist/assets/posters/r2.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/r2.webp",
+    "sha256": "2d7f6ccbf9b9e00af0caa72bd8ce297131c027874b54b84febff13feaa506f43",
+    "size": 24590
+  },
+  {
+    "path": "dist/assets/posters/r3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/r3.webp",
+    "sha256": "5b210f78160c9e5b2cb586b9292f38c7c3707f46fd846d65942204464d87ac07",
+    "size": 46070
+  },
+  {
+    "path": "dist/assets/posters/r4.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/r4.webp",
+    "sha256": "b2fb308eb91c1ae16f9ac7e1bbccce6d5d226522a0faa8db0c5eb648c880047b",
+    "size": 47826
+  },
+  {
+    "path": "dist/assets/posters/r5.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/r5.webp",
+    "sha256": "1d27f363d9f8327bf9ad5b08230acfced2398590f212b475fd7a012c2ba5d00c",
+    "size": 42086
+  },
+  {
+    "path": "dist/assets/posters/showreel.jpg",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/showreel.jpg",
+    "sha256": "7b0e2c73cbd1fbfd248335296a2a17aa2b27eec9eb69e817305686206e9d3f23",
+    "size": 55875
+  },
+  {
+    "path": "dist/assets/posters/starbucks.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/starbucks.webp",
+    "sha256": "dfc54d8b56b7710c6657c6339b517133744f4075221bc010d119b536a8a25806",
+    "size": 33046
+  },
+  {
+    "path": "dist/assets/posters/studio-web.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/studio-web.webp",
+    "sha256": "1ce4491856efa9e3a2e23f5294dbefe0e41166b7c5837ebdcc83542307565de9",
+    "size": 34916
+  },
+  {
+    "path": "dist/assets/posters/westin-gallery.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/westin-gallery.webp",
+    "sha256": "28fcb0a0e13d4af836fcb5a5b7577ff9cc75c4698d73f16432899721772b207d",
+    "size": 49718
+  },
+  {
+    "path": "dist/assets/posters/westin.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/posters/westin.webp",
+    "sha256": "8e8d439af766fd2b0b5d6ba21fc753b5c0c47154e2df0b755b73616078e9fd38",
+    "size": 45900
+  },
+  {
+    "path": "dist/assets/previews/bike.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/bike.mp4",
+    "sha256": "f4c8c1532e21e9d532f2d8847294346858e9609af4a33b1882b0eb24eeb56843",
+    "size": 918065
+  },
+  {
+    "path": "dist/assets/previews/bike2.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/bike2.mp4",
+    "sha256": "dd0d4b6425c54df11dd69569a65c80f3d30e774d3278557326a3474807c82326",
+    "size": 329090
+  },
+  {
+    "path": "dist/assets/previews/bike3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/bike3.mp4",
+    "sha256": "1d08566d5deb3b9357e66b22e6f13b94105d3e8b8a6f6e2da9e0734a58fa2d0e",
+    "size": 384456
+  },
+  {
+    "path": "dist/assets/previews/budvspro.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/budvspro.mp4",
+    "sha256": "c4097c2da7cbc726f394cc87e8de9052a2205839bbba3107749ebd1b3d9843f2",
+    "size": 132298
+  },
+  {
+    "path": "dist/assets/previews/budvspro2.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/budvspro2.mp4",
+    "sha256": "8aec32863b4ba38c78c10e8998c41aff2c84307d968cb9f21afeae0b2a368aa9",
+    "size": 74151
+  },
+  {
+    "path": "dist/assets/previews/budvspro3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/budvspro3.mp4",
+    "sha256": "f03122be61205f7eace41e7b2e843ec4c440c99e264f7eb0cac31c94e8f9d265",
+    "size": 78611
+  },
+  {
+    "path": "dist/assets/previews/budvspro4.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/budvspro4.mp4",
+    "sha256": "29e4f091d43eb679d77d2d877b9e569401006a0ea1fab69e03c59cde6fd871e7",
+    "size": 73679
+  },
+  {
+    "path": "dist/assets/previews/budvspro5.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/budvspro5.mp4",
+    "sha256": "a233b4baa1494281b5c2b50ea1deb64039cb000bfa6585e12eeb613e0a6a7264",
+    "size": 61093
+  },
+  {
+    "path": "dist/assets/previews/helmet.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/helmet.mp4",
+    "sha256": "23ac7d1dbdf3d5b15ee854b46932873f70bba6e3b50035a88b0842368988922f",
+    "size": 614437
+  },
+  {
+    "path": "dist/assets/previews/hero.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/hero.mp4",
+    "sha256": "ae8b0c2def3ffe89f59bc2926fcd8bca124a4970551417ca93925e5a0b41ff96",
+    "size": 382123
+  },
+  {
+    "path": "dist/assets/previews/hire.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/hire.mp4",
+    "sha256": "34d7f0e402f30ccfebbb58c684385b3798b643a2fe5206ef9161f7f2ae3a570a",
+    "size": 192073
+  },
+  {
+    "path": "dist/assets/previews/interior3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/interior3.mp4",
+    "sha256": "a41f1017da5a950427449b4ea90b8ebe4fc769c2bca4bd70676ee01dfb7b45b7",
+    "size": 143540
+  },
+  {
+    "path": "dist/assets/previews/interior4.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/interior4.mp4",
+    "sha256": "17eb6a545183ce7f169d9871bade8d895a636444858644fee27497f31f40c3b6",
+    "size": 77228
+  },
+  {
+    "path": "dist/assets/previews/m2.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/m2.mp4",
+    "sha256": "7aac59c3dd6ba91f5867890580e8382071df34cae1b2ef8c6f6d80428d8f4bb6",
+    "size": 159517
+  },
+  {
+    "path": "dist/assets/previews/m3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/m3.mp4",
+    "sha256": "d7201af00b32cde712cb68e4e9c749eb4b286e045dbd3d125143cc98e17ddb26",
+    "size": 311036
+  },
+  {
+    "path": "dist/assets/previews/m4.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/m4.mp4",
+    "sha256": "04f65cd3601f869781c63b58b8ec35f2a7eb9b81e8df9209a118cbe62824c04f",
+    "size": 122767
+  },
+  {
+    "path": "dist/assets/previews/m5.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/m5.mp4",
+    "sha256": "c20edfa2bede6130ec5fc7c20c4811ef1a53cabd11edc45240448b0d507616c2",
+    "size": 149174
+  },
+  {
+    "path": "dist/assets/previews/m6.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/m6.mp4",
+    "sha256": "d1cefecd76c0da0bca0f38aa0b60a441ee5bcba182e619f3f146f727b1e302ee",
+    "size": 109185
+  },
+  {
+    "path": "dist/assets/previews/r1.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/r1.mp4",
+    "sha256": "e054bf42c449bb80e02c390e4c37e62b17cd121687fa9d03533b5e91acc6d865",
+    "size": 276022
+  },
+  {
+    "path": "dist/assets/previews/r2.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/r2.mp4",
+    "sha256": "91cb359c3106e6eb4882f7580da15dd8af392803895878c8aea4af1cbb2887b4",
+    "size": 152703
+  },
+  {
+    "path": "dist/assets/previews/r3.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/r3.mp4",
+    "sha256": "9ced1a44e692485fca17d74eb895c2b0db89cf5f5e23adea75ff7b05f2d11098",
+    "size": 254271
+  },
+  {
+    "path": "dist/assets/previews/r4.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/r4.mp4",
+    "sha256": "b007dfd7db7881ba9c9259c937f46bee9ddf49339324594da6a9570b15436743",
+    "size": 163305
+  },
+  {
+    "path": "dist/assets/previews/r5.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/r5.mp4",
+    "sha256": "4e8fa1c3a2664d6b99a96fdb890904bd222e023f9cba31ed9ce71a5fa4dc5a31",
+    "size": 187154
+  },
+  {
+    "path": "dist/assets/previews/screening-showreel.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/screening-showreel.mp4",
+    "sha256": "8e9967004835d1461af7792111fb73a58924360685db30189cb4e3c634765972",
+    "size": 427538
+  },
+  {
+    "path": "dist/assets/previews/starbucks.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/starbucks.mp4",
+    "sha256": "eeb838459406d4b1f016f0181ae931687f4d4cce0c1721aea45d2cd737156e0c",
+    "size": 209191
+  },
+  {
+    "path": "dist/assets/previews/westin.mp4",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/previews/westin.mp4",
+    "sha256": "b9e86575a0b3551d6b7d923871f5f5a073adfbd5b6e84c8710f482a9031ec653",
+    "size": 113803
+  },
+  {
+    "path": "dist/assets/services/discipline-ads.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/discipline-ads.webp",
+    "sha256": "d6452574f41f54722157836b94616b5bf1de0028b1b9e7e8e652025cbab764cd",
+    "size": 58618
+  },
+  {
+    "path": "dist/assets/services/discipline-film.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/discipline-film.webp",
+    "sha256": "50c2a7b6d9597b9ebe73caa3bb4dae228218cbf7c8f9e21f940f6bae5b03a454",
+    "size": 37446
+  },
+  {
+    "path": "dist/assets/services/discipline-identity.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/discipline-identity.webp",
+    "sha256": "013f4a3c84c24d2cccebda9a28e96e2f848ddb660b831cee728a80a18bbcf286",
+    "size": 69120
+  },
+  {
+    "path": "dist/assets/services/discipline-local.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/discipline-local.webp",
+    "sha256": "03bd6521797512a92d8fbb6e1c5277b7985ea1a0e4e893da9d7c1184c8fb2315",
+    "size": 63310
+  },
+  {
+    "path": "dist/assets/services/discipline-social.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/discipline-social.webp",
+    "sha256": "1ee76871722383779e4dc9445d87888bf87e88d12422c876799e1cbfddd1243b",
+    "size": 35086
+  },
+  {
+    "path": "dist/assets/services/discipline-web.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/discipline-web.webp",
+    "sha256": "a85c52f739d0e719048a489a3347472dd6e7a2077760647636b00ef71f2b50c1",
+    "size": 53270
+  },
+  {
+    "path": "dist/assets/services/film.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/film.webp",
+    "sha256": "17cab639563ef453e88521eaee83abf6410d93fa8d33a7e8049664fc14754791",
+    "size": 43416
+  },
+  {
+    "path": "dist/assets/services/social.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/social.webp",
+    "sha256": "621468e912ff0ac2ce275fccd7c31778e80302cb05301b3b452d78361022c55b",
+    "size": 23730
+  },
+  {
+    "path": "dist/assets/services/workflow-brief.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/workflow-brief.webp",
+    "sha256": "88689ff4410e5e8f1f204c258469eee91c22ad07699f0635ac121f03493b9592",
+    "size": 123240
+  },
+  {
+    "path": "dist/assets/services/workflow-launch.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/workflow-launch.webp",
+    "sha256": "20e862f53ceb3d81a9c39322782412884404f5dc709a6e80727d12a0944f3318",
+    "size": 96068
+  },
+  {
+    "path": "dist/assets/services/workflow-review.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/services/workflow-review.webp",
+    "sha256": "ee4af36203d595394ac54eeef663570599ce5e7a8dfcafdb76ae8bcbb2b3750d",
+    "size": 70500
+  },
+  {
+    "path": "dist/assets/tiles/bike.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/tiles/bike.webp",
+    "sha256": "47df328317a71a099f702a08a55bfe1d43ad4d971975fcb59c56c482e48e6c63",
+    "size": 7220
+  },
+  {
+    "path": "dist/assets/tiles/helmet.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/tiles/helmet.webp",
+    "sha256": "69cb32352badc4e4e492e15f288111c71e0c831a3d633f4a1e76b1ce0152e22a",
+    "size": 22122
+  },
+  {
+    "path": "dist/assets/tiles/interior3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/tiles/interior3.webp",
+    "sha256": "2c008cad0c2c57700c13498615e3a6b2cab2faa62c579a4a562aaf718d4fdd82",
+    "size": 23692
+  },
+  {
+    "path": "dist/assets/tiles/interior4.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/tiles/interior4.webp",
+    "sha256": "f860805f5e8c1b9d48e234a1c7d40fa263bbd564634fe2d3ef38a5ca097bfb8e",
+    "size": 13530
+  },
+  {
+    "path": "dist/assets/tiles/m3.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/tiles/m3.webp",
+    "sha256": "b5f431b0380c38c5a0b0c4d65044421d19e248f5e16511c924583cde42754c7a",
+    "size": 14506
+  },
+  {
+    "path": "dist/assets/tiles/m4.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/tiles/m4.webp",
+    "sha256": "2f8a113113c5f34041904ec25fc8ca511cfd21d0d296d536004ebc10a88adb3e",
+    "size": 14468
+  },
+  {
+    "path": "dist/assets/tiles/r5.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/tiles/r5.webp",
+    "sha256": "741b5bcd856998059f183805365649a9aae1a33324c6a8077daa8f0ca8065d8a",
+    "size": 17412
+  },
+  {
+    "path": "dist/assets/tiles/starbucks.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/tiles/starbucks.webp",
+    "sha256": "f6324fa23cfb930c64dc5c45468b24018a94e6bb69fbdf5821128eefc720cf96",
+    "size": 12906
+  },
+  {
+    "path": "dist/assets/website-covers/aditya.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/website-covers/aditya.webp",
+    "sha256": "85b5fb070a0a0483a1b953a075c0cefde766f4f82cb328e2b46fb2cec7bf438f",
+    "size": 59392
+  },
+  {
+    "path": "dist/assets/website-covers/bbtrader.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/website-covers/bbtrader.webp",
+    "sha256": "e8d1542d7b4c75c375d29c0ec74d1e127922fea17512374d11f11efb58192457",
+    "size": 34604
+  },
+  {
+    "path": "dist/assets/website-covers/news.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/website-covers/news.webp",
+    "sha256": "6208a04030c16cd54e307e2106bb313747db7c7b3377602a0b65a54a9c1a4795",
+    "size": 55974
+  },
+  {
+    "path": "dist/assets/website-covers/pehwar.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/website-covers/pehwar.webp",
+    "sha256": "dcdff63283c407a6ce9f7404b21f4c4cab031c1c83e3d1982c946e0fe85047ff",
+    "size": 44474
+  },
+  {
+    "path": "dist/assets/website-covers/scy.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/website-covers/scy.webp",
+    "sha256": "17a513e31e534222a6a04d97f15eb71e06d9860ed442925302e0c5ffc9e19d90",
+    "size": 45530
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike-landscape.webp",
+    "sha256": "d65a45e8d3fde8a934934795cc770330100cd6ad724aa687dcee1073d9e8b557",
+    "size": 16488
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike-panorama.webp",
+    "sha256": "fc07933b0a05e8de027aee3efe844d46cec88cdf9dcc79c23d1fc850f3cc013a",
+    "size": 8636
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike-portrait.webp",
+    "sha256": "8ea87f1bb9f3f3aa25d65d4effb78c17ef22b5186152def1b78540e3dc00e716",
+    "size": 36964
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike-square.webp",
+    "sha256": "2c4969fc7f275485dea44b8d3a64ffa1d04ca142307eda062e256734e3735293",
+    "size": 30654
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike-wide.webp",
+    "sha256": "af8880ff86dc4a85b82aa0abe4cc0370f698a79562dd332713245422e7193d14",
+    "size": 15148
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike2-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike2-landscape.webp",
+    "sha256": "1180e9e668dc26aaf12598930763f1f9677f0f5541313ef416f15763e17d705e",
+    "size": 24342
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike2-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike2-panorama.webp",
+    "sha256": "280a564e32abb959933ce24db451064e13f02d8d74175eed2f4150e2e95b147e",
+    "size": 13192
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike2-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike2-portrait.webp",
+    "sha256": "d98dee28c9bc017c5833707d4e2b7a10c102c078f1d49e92e02d5b1e7885999f",
+    "size": 52430
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike2-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike2-square.webp",
+    "sha256": "eea5abe923347c2298b9c9fce54e36a4cc6feb6106582073aaddb083d0d8ef32",
+    "size": 42526
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike2-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike2-wide.webp",
+    "sha256": "b28b346df3f2170575ef14bf5c2ff7dda775fcf1b1961e12070f047beb998754",
+    "size": 22176
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike3-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike3-landscape.webp",
+    "sha256": "d05e76274822a7e23a0b53771115de8f487242e4e469e3de13ed706bf5fde5a9",
+    "size": 15616
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike3-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike3-panorama.webp",
+    "sha256": "29094cd2fcf71300c80fc17682156bf9f817ad1679136ad17ad867b54453a9fd",
+    "size": 8306
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike3-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike3-portrait.webp",
+    "sha256": "dea2859e6ed5358a7df4ba00b7d6a8cfeaa08dc810a9b5bbe400e916304514a5",
+    "size": 31012
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike3-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike3-square.webp",
+    "sha256": "a4db4478fb98150823b0f50ea2e338427e9a66b1f1ce7d63c6ca3a6774dbc3cd",
+    "size": 27014
+  },
+  {
+    "path": "dist/assets/work-thumbs/bike3-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/bike3-wide.webp",
+    "sha256": "b80c56ece4176f4f89c35e4c15bfd1f9d193d88eec418e8bfc586e65ac121c7e",
+    "size": 14488
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro-landscape.webp",
+    "sha256": "fcdced815650325577f4287ed4cd145be2b120df96a6aa7f869eefa6e02aad4b",
+    "size": 21768
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro-panorama.webp",
+    "sha256": "0dd435eed83c86a0fe6879fd14dab50d6d1b87226ea0ef8686dbd437131f0fae",
+    "size": 13142
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro-portrait.webp",
+    "sha256": "3fa4eaaea751e540334ea962e0150f6d1739423307f481c9b0410dd0acb858e3",
+    "size": 36520
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro-square.webp",
+    "sha256": "5a457f82fe021df69066a6d7b896a6f97cabf1ebf43a7852836c98dc556baa8d",
+    "size": 34230
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro-wide.webp",
+    "sha256": "4fe56394559f50feb0f47dec94441ce42d502d9a6915568400530dbc54e0528b",
+    "size": 20706
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro2-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro2-landscape.webp",
+    "sha256": "b7eca8310d8257faa87e92fa961687cf28272fe02607388292b53b5380f9f4b6",
+    "size": 21390
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro2-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro2-panorama.webp",
+    "sha256": "57fe8eee49cb9c36e30ab55a91cf5457552cea71dc5a8ddec26000dacc9a9e7b",
+    "size": 12370
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro2-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro2-portrait.webp",
+    "sha256": "260a4d4ebcd036e34fa621ba7522bd543dbd31de338a649adc1d96e25b4345e1",
+    "size": 40476
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro2-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro2-square.webp",
+    "sha256": "144e03bd0d17831b058600321710f2189da68874f10ef94ff38eef15c1b01895",
+    "size": 30874
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro2-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro2-wide.webp",
+    "sha256": "2ffa4058834cda264ed239a1e20f2cc358e10ee451cb3b6de06e2faca6e6846a",
+    "size": 20048
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro3-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro3-landscape.webp",
+    "sha256": "e6b1f6a6d4a23564739c8e9c174cc7d19aabe6b2041a11c7c454db39ea69cd94",
+    "size": 16848
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro3-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro3-panorama.webp",
+    "sha256": "8130787e1a8a683622dd3fad6435ca20066fd330110dae266ca8cdf05c2c8de5",
+    "size": 9830
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro3-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro3-portrait.webp",
+    "sha256": "bc84d22c835534ef429e5d750853257cd883231fbaf405bcb930f04d8a12d136",
+    "size": 28032
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro3-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro3-square.webp",
+    "sha256": "9bc2f9b9d1642fff9b8ea130fbc67c98e764ba6c1edf4ac81bf8fec6287f4370",
+    "size": 27178
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro3-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro3-wide.webp",
+    "sha256": "ee37d9bca02250b858ca4f6e3353b87852d35195671d3812f6a54cc222b3abe4",
+    "size": 16126
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro4-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro4-landscape.webp",
+    "sha256": "e0f9a55707ce67820b611f458e59c19aa28f73d107df7a1b884b7119dae7f60a",
+    "size": 21660
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro4-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro4-panorama.webp",
+    "sha256": "9c4fe943eec399a6f3d4923336ef278802be247c0c12678958de5bfc154fad75",
+    "size": 12658
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro4-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro4-portrait.webp",
+    "sha256": "41c0b34c22a67274e27f688b7d01ee31a579c1dc0f09d5688bab6c5cc677e2a2",
+    "size": 36584
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro4-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro4-square.webp",
+    "sha256": "4870a14e1d1abc5f7f94e312f637d3de7c13e53ceab80ff1bbd48c88ab0ec2c4",
+    "size": 29528
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro4-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro4-wide.webp",
+    "sha256": "86a592b544115cdf48234cca74bddada4f898d21bcf8135f23d770a635ae45da",
+    "size": 20080
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro5-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro5-landscape.webp",
+    "sha256": "5226d294c78815568e1696a32f954b53f483eb0731bb0f2fe33e8a9f8981b356",
+    "size": 26112
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro5-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro5-panorama.webp",
+    "sha256": "dc90d3d99d08568401cb2d7e1d22b90b39df932553dfab9fd166a4052a977c5b",
+    "size": 14722
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro5-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro5-portrait.webp",
+    "sha256": "0070698f89ef8252e88a0d471b81650a7dd352d0098563574e7d62eafd0574cb",
+    "size": 42406
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro5-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro5-square.webp",
+    "sha256": "5434270a9ce79e20a4fdad768a675fedb1b86c7a630612bd93926dcbbc44e8a5",
+    "size": 38816
+  },
+  {
+    "path": "dist/assets/work-thumbs/budvspro5-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/budvspro5-wide.webp",
+    "sha256": "6635281faf654b92608a7cbaf876c13dd010d24329970e122dd4b34a528c82f5",
+    "size": 24394
+  },
+  {
+    "path": "dist/assets/work-thumbs/helmet-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/helmet-landscape.webp",
+    "sha256": "0cb01e34f688500560c0e8061f5016a15f754b6f3f01743d3a2dca2ea33b5702",
+    "size": 38198
+  },
+  {
+    "path": "dist/assets/work-thumbs/helmet-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/helmet-panorama.webp",
+    "sha256": "ca448e7b0078327c34574d6b098ec5700a2829b7667e865ebc158a45acf1466a",
+    "size": 34178
+  },
+  {
+    "path": "dist/assets/work-thumbs/helmet-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/helmet-portrait.webp",
+    "sha256": "84fee310277dce07f3e09991d4cb107b6bb275bf26390224a217bedf418380b6",
+    "size": 55944
+  },
+  {
+    "path": "dist/assets/work-thumbs/helmet-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/helmet-square.webp",
+    "sha256": "f80b1a2c527232b8225e946bc56c47857f9696ae005eacd9295d644b89f50a70",
+    "size": 47024
+  },
+  {
+    "path": "dist/assets/work-thumbs/helmet-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/helmet-wide.webp",
+    "sha256": "77c2a5eab59f22a90f3e7a33b7a8e0d858a2368bcd734a48cac43b18e88d15ea",
+    "size": 41896
+  },
+  {
+    "path": "dist/assets/work-thumbs/hire-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/hire-landscape.webp",
+    "sha256": "2e937f963b5d4301d0a4e0cddd6900e01b96ec6a7ce7842cba21ac879e48fb00",
+    "size": 21714
+  },
+  {
+    "path": "dist/assets/work-thumbs/hire-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/hire-panorama.webp",
+    "sha256": "03e245865613bdfae5360ff3cd4e820154d36075b6642bcb495b72535a87bcea",
+    "size": 11726
+  },
+  {
+    "path": "dist/assets/work-thumbs/hire-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/hire-portrait.webp",
+    "sha256": "d4d9b48addc115f487059649283bd1e221b2fbbd345c66e83ea36d1bc9ef524d",
+    "size": 41260
+  },
+  {
+    "path": "dist/assets/work-thumbs/hire-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/hire-square.webp",
+    "sha256": "5f8d1a64acf37b574dd8c8860662b9f7e5333ecf699145f93fb370bb241a05b4",
+    "size": 36282
+  },
+  {
+    "path": "dist/assets/work-thumbs/hire-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/hire-wide.webp",
+    "sha256": "c960ff587b49bbcd077a92caf562f6692632785c7cf77da66ec27bd41cd8665a",
+    "size": 20176
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior3-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior3-landscape.webp",
+    "sha256": "8cf028b62059aafbe2a0d2575c62f31d7e137ed3117673d9c36b8e6203b95b3a",
+    "size": 56966
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior3-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior3-panorama.webp",
+    "sha256": "e84793d87ea86ab1cb8f9249d9ac83ccc2a72f7fe92cb545aeb98aaafbdf41ec",
+    "size": 46452
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior3-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior3-portrait.webp",
+    "sha256": "8e6a8e57a026effeab96bf26b97248d3b890b68155359332cb3fe3fbfcbc71c6",
+    "size": 30912
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior3-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior3-square.webp",
+    "sha256": "50ec3f7dc9d0d975e58b30f80942a3ebca77bd08a0dd06f32418e2d2c899060d",
+    "size": 44382
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior3-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior3-wide.webp",
+    "sha256": "641b20c1d1cf29dbb8e48772ad35d38c3ae958ea5108d4a1663981e859413d6c",
+    "size": 65452
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior4-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior4-landscape.webp",
+    "sha256": "0d254c092d262508b68bc4c5c7c3df8aa07b0ec53369aa07bd43fd47d3ee5804",
+    "size": 64014
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior4-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior4-panorama.webp",
+    "sha256": "fd36e0941cd26eee92f0d069602768a41ff858a9dab8f2473e79bd092ec154d4",
+    "size": 55874
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior4-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior4-portrait.webp",
+    "sha256": "fc44fe4944ac2756b6e9e9822f7a0c499a6e0b47d92d80aa99ca931e0eabb7e1",
+    "size": 90902
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior4-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior4-square.webp",
+    "sha256": "cda8a9e928ecab924f5d43048753a6a1d17259aab0447b8c5b59689dc329bd38",
+    "size": 79710
+  },
+  {
+    "path": "dist/assets/work-thumbs/interior4-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/interior4-wide.webp",
+    "sha256": "f818b78e7e8a986595fe706a73ec3f22401dc079942ceabc7506a922131f9447",
+    "size": 73294
+  },
+  {
+    "path": "dist/assets/work-thumbs/m2-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m2-landscape.webp",
+    "sha256": "88d8bacc63526a488fbc4915817ce4e3cd4ced08b45fc86b53e14132addaf88f",
+    "size": 31616
+  },
+  {
+    "path": "dist/assets/work-thumbs/m2-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m2-panorama.webp",
+    "sha256": "df8d43e4a0ed8bec035aa618de9b1e4c069f67aec16afec523d8622e07cb3178",
+    "size": 15822
+  },
+  {
+    "path": "dist/assets/work-thumbs/m2-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m2-portrait.webp",
+    "sha256": "184edca651ae6b1105cf34bbed79015801cebbc81787ff76794d203703a0d95f",
+    "size": 60316
+  },
+  {
+    "path": "dist/assets/work-thumbs/m2-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m2-square.webp",
+    "sha256": "276fa440601ae09e09b775e006584adb1404949625ef14dbaf1f1f4e2560a128",
+    "size": 57618
+  },
+  {
+    "path": "dist/assets/work-thumbs/m2-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m2-wide.webp",
+    "sha256": "496a5721ee6cc3640b695c121e14d0c3a904ec744e77b532d5576951f0933e21",
+    "size": 28694
+  },
+  {
+    "path": "dist/assets/work-thumbs/m3-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m3-landscape.webp",
+    "sha256": "800768e5ec4c4e01a57fb511c4d7c6b5897396f31a89255362bd021ad55563ec",
+    "size": 47216
+  },
+  {
+    "path": "dist/assets/work-thumbs/m3-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m3-panorama.webp",
+    "sha256": "bf5a69e0f70f7dbc828b7502a63dcfe8b9d25b9e02a7b7bb75acdb3eea1fbfe6",
+    "size": 22012
+  },
+  {
+    "path": "dist/assets/work-thumbs/m3-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m3-portrait.webp",
+    "sha256": "44552302ca039b0f12ae289817d6227eabc44fbc29e9478e347ed03e635f2161",
+    "size": 114832
+  },
+  {
+    "path": "dist/assets/work-thumbs/m3-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m3-square.webp",
+    "sha256": "5d1414bc4f549ce9d634548cf0b6ba021c5e0335f5a97ec7b42056ad4f69a01f",
+    "size": 112680
+  },
+  {
+    "path": "dist/assets/work-thumbs/m3-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m3-wide.webp",
+    "sha256": "d9b2e9b2437208181c56108a2bec4540dd0c9a2426d7038301e01cc49513d4c2",
+    "size": 41696
+  },
+  {
+    "path": "dist/assets/work-thumbs/m4-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m4-landscape.webp",
+    "sha256": "1daf65e422cb142cd216462c93835a364db51b805b4bef3ae487026949630fd0",
+    "size": 21800
+  },
+  {
+    "path": "dist/assets/work-thumbs/m4-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m4-panorama.webp",
+    "sha256": "9923c46645b3d2bd2fea613b5fd43bfb6f8fa759bfd8ac383af3fb966ac57497",
+    "size": 11896
+  },
+  {
+    "path": "dist/assets/work-thumbs/m4-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m4-portrait.webp",
+    "sha256": "fc207918c664760bf419fc19da8794492c499c0595e573d72af00bd8724a4a2c",
+    "size": 41428
+  },
+  {
+    "path": "dist/assets/work-thumbs/m4-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m4-square.webp",
+    "sha256": "0109e9b9a9a6c0987c03a986433244688c89b252f96a35da20764f2e260d7bd8",
+    "size": 41242
+  },
+  {
+    "path": "dist/assets/work-thumbs/m4-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m4-wide.webp",
+    "sha256": "5f0c78ad1ca1d8580d28fac6395b98eb75b30dd42c5e8437b75a26d36bc55e4d",
+    "size": 20182
+  },
+  {
+    "path": "dist/assets/work-thumbs/m5-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m5-landscape.webp",
+    "sha256": "6b03852f4db9a303164cd260df2ac1a3cfea42102d6906e8148de8202ad27c71",
+    "size": 32596
+  },
+  {
+    "path": "dist/assets/work-thumbs/m5-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m5-panorama.webp",
+    "sha256": "52307f212cc151ec14cd814590d684bae9cf284344be43325e46ecd0b1b640c6",
+    "size": 16490
+  },
+  {
+    "path": "dist/assets/work-thumbs/m5-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m5-portrait.webp",
+    "sha256": "17dce08793ec7132cbad08fb23b441c87810fc71bb73f0101d677960a71243ac",
+    "size": 68702
+  },
+  {
+    "path": "dist/assets/work-thumbs/m5-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m5-square.webp",
+    "sha256": "7578f6a99d7e5fed968a67d45d6be79de3452a3c5639f7b620b383290f7a7234",
+    "size": 58302
+  },
+  {
+    "path": "dist/assets/work-thumbs/m5-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m5-wide.webp",
+    "sha256": "2d12cf318ac508142ac78d03ba97a7562f6f1534675d884df5dd41e95dbbecf0",
+    "size": 29378
+  },
+  {
+    "path": "dist/assets/work-thumbs/m6-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m6-landscape.webp",
+    "sha256": "cba774eebbb53d5de38534b1efe235a9457ec822c190c94d40e9cbed0eeb57c9",
+    "size": 21946
+  },
+  {
+    "path": "dist/assets/work-thumbs/m6-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m6-panorama.webp",
+    "sha256": "3fa224618a9648f82b5605f344ffc2d150b988e4fa8e3346423ea2e7b54a3486",
+    "size": 11486
+  },
+  {
+    "path": "dist/assets/work-thumbs/m6-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m6-portrait.webp",
+    "sha256": "6de380a295880c3eba164a28f87c895176b927f9c5ba8f6343fd8205093b5087",
+    "size": 44932
+  },
+  {
+    "path": "dist/assets/work-thumbs/m6-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m6-square.webp",
+    "sha256": "4c28623d0f29717c025d7432fbf201e6ab1fa8870d7ce8146fa2b07b902d6c18",
+    "size": 34546
+  },
+  {
+    "path": "dist/assets/work-thumbs/m6-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/m6-wide.webp",
+    "sha256": "83f90702e51c52891089a3dd492e3dc38ef0d5ba2e911e21e22f948aec3fa082",
+    "size": 20000
+  },
+  {
+    "path": "dist/assets/work-thumbs/r1-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r1-landscape.webp",
+    "sha256": "b4dbfc5e0a258c85c588fd50b724564cbeb24dd57decf8b5ef19a83847e2965d",
+    "size": 27912
+  },
+  {
+    "path": "dist/assets/work-thumbs/r1-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r1-panorama.webp",
+    "sha256": "cdff68d2aa3bff13aea0ba0341c20c37c1d853fd8363b969dded2d128a6e5c42",
+    "size": 13688
+  },
+  {
+    "path": "dist/assets/work-thumbs/r1-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r1-portrait.webp",
+    "sha256": "3714abff2a44b43ea9de4173797cf5f81bab4c32da6508f5d27a8f545806fe14",
+    "size": 63112
+  },
+  {
+    "path": "dist/assets/work-thumbs/r1-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r1-square.webp",
+    "sha256": "0dc1acd00a41b4abc54d1aa243249d74f75e96e8198f32bb964a4f6c1f2cbae8",
+    "size": 59688
+  },
+  {
+    "path": "dist/assets/work-thumbs/r1-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r1-wide.webp",
+    "sha256": "52f735dce69b2f1cde071fc22366ab38e4eef69bdda5d46ec4d752586789d6ca",
+    "size": 24676
+  },
+  {
+    "path": "dist/assets/work-thumbs/r2-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r2-landscape.webp",
+    "sha256": "b69a876e3d0e680147f54fb4eb75d1147647ca04efabd915712e16f541653f0b",
+    "size": 16934
+  },
+  {
+    "path": "dist/assets/work-thumbs/r2-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r2-panorama.webp",
+    "sha256": "6838bfacb1f1f1c0dd4ac2b641ee1f9574e380077162bcf5973deb98b6804475",
+    "size": 10534
+  },
+  {
+    "path": "dist/assets/work-thumbs/r2-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r2-portrait.webp",
+    "sha256": "bed496e88aa55f1bf3f2545b62c112142376127a657f32027f3ed87b4dd7ad0c",
+    "size": 30278
+  },
+  {
+    "path": "dist/assets/work-thumbs/r2-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r2-square.webp",
+    "sha256": "e57ef95fdbc2b6bec1686f27ad009c6bc7dfbba59448a2ea9c01dfc3b789b83d",
+    "size": 31770
+  },
+  {
+    "path": "dist/assets/work-thumbs/r2-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r2-wide.webp",
+    "sha256": "c75aa174245ddb259c7828b60cedb4e88c181b2c16b8938054d6390c6f731a81",
+    "size": 16076
+  },
+  {
+    "path": "dist/assets/work-thumbs/r3-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r3-landscape.webp",
+    "sha256": "52c9c730f3a9044fc3557ecf23bbb6cc1364b6acead4e2d26a38687168101746",
+    "size": 31254
+  },
+  {
+    "path": "dist/assets/work-thumbs/r3-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r3-panorama.webp",
+    "sha256": "765d1d650bbb6861d839aef8703b869f2ba2d387db6ae91fd91a3c955869aad0",
+    "size": 13996
+  },
+  {
+    "path": "dist/assets/work-thumbs/r3-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r3-portrait.webp",
+    "sha256": "f3566f2c29db63ad67eb92b88b94c19e84ae5b024355c53f4e4b0d8fcdb6fb33",
+    "size": 68246
+  },
+  {
+    "path": "dist/assets/work-thumbs/r3-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r3-square.webp",
+    "sha256": "53913b397068c55d20c6960170bae8b666895bcf5ec01e051c6bbbae2d7e5e07",
+    "size": 57596
+  },
+  {
+    "path": "dist/assets/work-thumbs/r3-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r3-wide.webp",
+    "sha256": "aa135213f5d56f6894b2df326a73d597942cdf747f909b1b0c4fb7a3d5a4a0be",
+    "size": 27592
+  },
+  {
+    "path": "dist/assets/work-thumbs/r4-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r4-landscape.webp",
+    "sha256": "7163de533023adf360bec7ecb2fed7454bceeb98bc98af410f3012b441698d50",
+    "size": 36694
+  },
+  {
+    "path": "dist/assets/work-thumbs/r4-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r4-panorama.webp",
+    "sha256": "efceb470850fed454edcaca5f5aec26a7594fb5be73d235b1c2653d071fae2f5",
+    "size": 18512
+  },
+  {
+    "path": "dist/assets/work-thumbs/r4-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r4-portrait.webp",
+    "sha256": "e1dd7ded6cc050e2762d45247bb25de2d22b3eb841ca516f16b69a2c53abd59e",
+    "size": 80764
+  },
+  {
+    "path": "dist/assets/work-thumbs/r4-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r4-square.webp",
+    "sha256": "1d8e4895f4eef7310f8ff88a242e3f25763737583ac1232e384d58822eda0fbc",
+    "size": 68794
+  },
+  {
+    "path": "dist/assets/work-thumbs/r4-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r4-wide.webp",
+    "sha256": "7a558ec16e74338d62fa9a534eeb56545226b9eb839d00665f55112f366ed2a2",
+    "size": 33170
+  },
+  {
+    "path": "dist/assets/work-thumbs/r5-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r5-landscape.webp",
+    "sha256": "c33012edeee0ff090d0fdb513b8af7799ba5843ad4e8f186f701d43772e4b774",
+    "size": 33158
+  },
+  {
+    "path": "dist/assets/work-thumbs/r5-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r5-panorama.webp",
+    "sha256": "c7f50d165e9d3d444ea416c4f3442f64b6ce7579a992e69cc9cfefa6c820dc92",
+    "size": 15360
+  },
+  {
+    "path": "dist/assets/work-thumbs/r5-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r5-portrait.webp",
+    "sha256": "6418d611b4d3c2179343b6d3b73b9d01069fd9ebfd0e81c89f6babf9621d62a3",
+    "size": 84426
+  },
+  {
+    "path": "dist/assets/work-thumbs/r5-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r5-square.webp",
+    "sha256": "a0404b2d799da8f0c8c314c1a788fff8c3585228588fadc49967ec0fdecd3a71",
+    "size": 78928
+  },
+  {
+    "path": "dist/assets/work-thumbs/r5-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/r5-wide.webp",
+    "sha256": "944be252cebf3eda758a4b05701867bfffb0cd6c0815bfd2e268749dcdf13763",
+    "size": 29152
+  },
+  {
+    "path": "dist/assets/work-thumbs/starbucks-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/starbucks-landscape.webp",
+    "sha256": "09c1a18dea03a8f7a6d0d887480915af74b8267848e8ec9360e73959e23cc212",
+    "size": 27434
+  },
+  {
+    "path": "dist/assets/work-thumbs/starbucks-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/starbucks-panorama.webp",
+    "sha256": "3616cc6441a4afbc3ba428b3d970aff56641f10f0552a4ca09081408ab4bc318",
+    "size": 14852
+  },
+  {
+    "path": "dist/assets/work-thumbs/starbucks-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/starbucks-portrait.webp",
+    "sha256": "5d0d1a5a02968a3d051db02aa5f4dd1acf711d14ac9e8af74b4a8371c1812734",
+    "size": 45864
+  },
+  {
+    "path": "dist/assets/work-thumbs/starbucks-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/starbucks-square.webp",
+    "sha256": "147a8b5f85b336c44061c7f28ba54e568d0c1940756b8402b9606cf980746b26",
+    "size": 44288
+  },
+  {
+    "path": "dist/assets/work-thumbs/starbucks-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/starbucks-wide.webp",
+    "sha256": "acfea211966a8b01e511fa8a4a730049b7970f4e940fcb545bde493d7300fc1f",
+    "size": 24692
+  },
+  {
+    "path": "dist/assets/work-thumbs/westin-landscape.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/westin-landscape.webp",
+    "sha256": "08e7f20ca0fa4d09ebc5d82583c804791d67edc46165ce5cd45480207ffe63f9",
+    "size": 58500
+  },
+  {
+    "path": "dist/assets/work-thumbs/westin-panorama.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/westin-panorama.webp",
+    "sha256": "af19164e79b3fd5ab25fc01aeba37b27084dd44796133d3c0ef72586fbe21b35",
+    "size": 50930
+  },
+  {
+    "path": "dist/assets/work-thumbs/westin-portrait.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/westin-portrait.webp",
+    "sha256": "3c20aa74b93a05879c4c208ffe860ca9ad38615973a93f722d1396284364b226",
+    "size": 46338
+  },
+  {
+    "path": "dist/assets/work-thumbs/westin-square.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/westin-square.webp",
+    "sha256": "fb537c7ce9f80575f63e106479ad3021ffc2d353ba24ad5ce03c131cab6d35a0",
+    "size": 49810
+  },
+  {
+    "path": "dist/assets/work-thumbs/westin-wide.webp",
+    "url": "https://lunaria-studio-minimal.sachinc2412.chatgpt.site/assets/work-thumbs/westin-wide.webp",
+    "sha256": "ea9714e7681c6140d0774cb863dba5a4f128df35847011b4919316989e2ae09b",
+    "size": 65736
+  }
+]

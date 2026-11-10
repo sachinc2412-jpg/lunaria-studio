@@ -1,0 +1,194 @@
+[
+  {
+    "id": "r1",
+    "title": "Creek Harbour",
+    "category": "Real estate",
+    "video": "assets/media/r1.mp4",
+    "poster": "assets/posters/r1.webp",
+    "preview": "assets/previews/r1.mp4"
+  },
+  {
+    "id": "starbucks",
+    "title": "Starbucks India",
+    "category": "Brand film",
+    "video": "assets/media/starbucks.mp4",
+    "poster": "assets/posters/starbucks.webp",
+    "preview": "assets/previews/starbucks.mp4"
+  },
+  {
+    "id": "helmet",
+    "title": "The Spirit of Motorsport",
+    "category": "Product film",
+    "video": "assets/media/helmet.mp4",
+    "poster": "assets/posters/helmet.webp",
+    "preview": "assets/previews/helmet.mp4"
+  },
+  {
+    "id": "westin",
+    "title": "The Westin Experience",
+    "category": "Hospitality",
+    "video": "assets/media/westin.mp4",
+    "poster": "assets/posters/westin.webp",
+    "preview": "assets/previews/westin.mp4"
+  },
+  {
+    "id": "bike",
+    "title": "Night Riders",
+    "category": "Motorsport",
+    "video": "assets/media/bike.mp4",
+    "poster": "assets/posters/bike.webp",
+    "preview": "assets/previews/bike.mp4"
+  },
+  {
+    "id": "budvspro",
+    "title": "The Edit Makes the Difference",
+    "category": "Social creative",
+    "video": "assets/media/budvspro.mp4",
+    "poster": "assets/posters/budvspro.webp",
+    "preview": "assets/previews/budvspro.mp4"
+  },
+  {
+    "id": "r2",
+    "title": "A New Perspective",
+    "category": "Real estate",
+    "video": "assets/media/r2.mp4",
+    "poster": "assets/posters/r2.webp",
+    "preview": "assets/previews/r2.mp4"
+  },
+  {
+    "id": "r3",
+    "title": "Stories Behind the Address",
+    "category": "Real estate",
+    "video": "assets/media/r3.mp4",
+    "poster": "assets/posters/r3.webp",
+    "preview": "assets/previews/r3.mp4"
+  },
+  {
+    "id": "interior3",
+    "title": "The Velvet Living",
+    "category": "Interiors",
+    "video": "assets/media/interior3.mp4",
+    "poster": "assets/posters/interior3.webp",
+    "preview": "assets/previews/interior3.mp4"
+  },
+  {
+    "id": "m3",
+    "title": "Race Day Ritual",
+    "category": "Product film",
+    "video": "assets/media/m3.mp4",
+    "poster": "assets/posters/m3.webp",
+    "preview": "assets/previews/m3.mp4"
+  },
+  {
+    "id": "hire",
+    "title": "A Team That Grows Together",
+    "category": "Corporate",
+    "video": "assets/media/hire.mp4",
+    "poster": "assets/posters/hire.webp",
+    "preview": "assets/previews/hire.mp4"
+  },
+  {
+    "id": "m4",
+    "title": "In the Elements",
+    "category": "Product film",
+    "video": "assets/media/m4.mp4",
+    "poster": "assets/posters/m4.webp",
+    "preview": null
+  },
+  {
+    "id": "interior4",
+    "title": "Spaces to Come Home To",
+    "category": "Interiors",
+    "video": "assets/media/interior4.mp4",
+    "poster": "assets/posters/interior4.webp",
+    "preview": null
+  },
+  {
+    "id": "m2",
+    "title": "Details in Motion",
+    "category": "Product film",
+    "video": "assets/media/m2.mp4",
+    "poster": "assets/posters/m2.webp",
+    "preview": null
+  },
+  {
+    "id": "m5",
+    "title": "Built for the Track",
+    "category": "Product film",
+    "video": "assets/media/m5.mp4",
+    "poster": "assets/posters/m5.webp",
+    "preview": null
+  },
+  {
+    "id": "m6",
+    "title": "Light Meets Form",
+    "category": "Product film",
+    "video": "assets/media/m6.mp4",
+    "poster": "assets/posters/m6.webp",
+    "preview": null
+  },
+  {
+    "id": "r4",
+    "title": "Neighbourhood Stories",
+    "category": "Real estate",
+    "video": "assets/media/r4.mp4",
+    "poster": "assets/posters/r4.webp",
+    "preview": null
+  },
+  {
+    "id": "r5",
+    "title": "Beyond the Front Door",
+    "category": "Real estate",
+    "video": "assets/media/r5.mp4",
+    "poster": "assets/posters/r5.webp",
+    "preview": null
+  },
+  {
+    "id": "bike2",
+    "title": "After Dark",
+    "category": "Motorsport",
+    "video": "assets/media/bike2.mp4",
+    "poster": "assets/posters/bike2.webp",
+    "preview": null
+  },
+  {
+    "id": "bike3",
+    "title": "On the Edge",
+    "category": "Motorsport",
+    "video": "assets/media/bike3.mp4",
+    "poster": "assets/posters/bike3.webp",
+    "preview": null
+  },
+  {
+    "id": "budvspro2",
+    "title": "A Sharper Story",
+    "category": "Social creative",
+    "video": "assets/media/budvspro2.mp4",
+    "poster": "assets/posters/budvspro2.webp",
+    "preview": null
+  },
+  {
+    "id": "budvspro3",
+    "title": "Designed for the Feed",
+    "category": "Social creative",
+    "video": "assets/media/budvspro3.mp4",
+    "poster": "assets/posters/budvspro3.webp",
+    "preview": null
+  },
+  {
+    "id": "budvspro4",
+    "title": "A Different Point of View",
+    "category": "Social creative",
+    "video": "assets/media/budvspro4.mp4",
+    "poster": "assets/posters/budvspro4.webp",
+    "preview": null
+  },
+  {
+    "id": "budvspro5",
+    "title": "Content That Connects",
+    "category": "Social creative",
+    "video": "assets/media/budvspro5.mp4",
+    "poster": "assets/posters/budvspro5.webp",
+    "preview": null
+  }
+]
