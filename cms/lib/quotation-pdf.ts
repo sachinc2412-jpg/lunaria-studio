@@ -1,4 +1,4 @@
-import {PDFDocument,rgb,StandardFonts,setTextRenderingMode,TextRenderingMode,setLineWidth,type PDFPage} from 'pdf-lib';
+import {PDFDocument,rgb,StandardFonts,setTextRenderingMode,TextRenderingMode,setLineWidth,setStrokingRgbColor,type PDFPage} from 'pdf-lib';
 import fontkit from '@pdf-lib/fontkit';
 import {quoteTotals,quotationTerms,type Quotation} from './sales-model';
 const money=(c:number)=>new Intl.NumberFormat('en-AE',{minimumFractionDigits:c%100?2:0,maximumFractionDigits:2}).format(c/100);
@@ -12,7 +12,7 @@ export async function buildQuotationPdf(q:Quotation,logoBytes:Uint8Array,fontByt
  const W=595.28,H=841.89,L=59.5,R=535.8,black=rgb(0,0,0),orange=rgb(1,.435,0),gray=rgb(.45,.45,.45);let page:PDFPage,y=0;
  const clean=(s:string)=>String(s??'').replace(/\t/g,'  ').replace(/\r/g,'');
  const width=(s:string,size:number,f=font)=>f.widthOfTextAtSize(clean(s),size);
- function put(s:string,x:number,top:number,size=10,f=font,color=black){if(f===bold)page.pushOperators(setTextRenderingMode(TextRenderingMode.FillAndOutline),setLineWidth(.22));page.drawText(clean(s),{x,y:H-top-size,size,font:f,color});if(f===bold)page.pushOperators(setTextRenderingMode(TextRenderingMode.Fill));}
+ function put(s:string,x:number,top:number,size=10,f=font,color=black){if(f===bold)page.pushOperators(setTextRenderingMode(TextRenderingMode.FillAndOutline),setLineWidth(.22),setStrokingRgbColor(color.red,color.green,color.blue));page.drawText(clean(s),{x,y:H-top-size,size,font:f,color});if(f===bold)page.pushOperators(setTextRenderingMode(TextRenderingMode.Fill));}
  function wrap(text:string,max:number,size:number,f=font){const rows:string[]=[];for(const para of clean(text).split('\n')){if(!para.trim()){rows.push('');continue;}let row='';for(const word of para.trim().split(/\s+/)){if(width(word,size,f)>max){if(row){rows.push(row);row='';}let part='';for(const char of word){if(width(part+char,size,f)>max&&part){rows.push(part);part='';}part+=char;}row=part;}else if(row&&width(row+' '+word,size,f)>max){rows.push(row);row=word;}else row=row?row+' '+word:word;}if(row)rows.push(row);}return rows;}
  function fresh(showLogo=true){page=doc.addPage([W,H]);if(showLogo)page.drawImage(logo,{x:487,y:H-60,width:49,height:27});y=82;}
  function ensure(h:number){if(y+h>H-52)fresh();}
