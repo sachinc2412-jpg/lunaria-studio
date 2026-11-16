@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {prospectSchema,quotationSchema,quoteTotals,quoteStatus,salesMetrics,defaultTerms} from '../lib/sales-model.ts';
+import {prospectSchema,quotationSchema,quoteTotals,quoteStatus,salesMetrics,defaultTerms,quotationTerms,legacyDefaultTerms} from '../lib/sales-model.ts';
 const p={name:'Aster',contact:'',email:'',phone:'',industry:'',website:'',source:'Referral',ownerId:'',services:'Web design',valueCents:395000,stage:'New',pitchedOn:'2026-11-16',lastContact:'',followUp:'2026-11-16',lostReason:'',notes:'',history:[]};
 const q={number:'TEST-Q',title:'Website',recipientKind:'manual',recipientId:'',company:'Aster',contact:'',email:'',phone:'',location:'Dubai',issued:'2026-11-16',validUntil:'2026-11-30',status:'Draft',deliverables:'Website\nLaunch',support:'30 days',timeline:'4 weeks',revisions:'Two rounds',items:[{id:'1',description:'Web design',quantity:2,rateCents:200000}],discountCents:5000,taxBps:500,milestones:[],terms:defaultTerms,exclusions:'Hosting separate',preparedBy:'Lunaria',sender:{studio:'Lunaria Studio',email:'enquiry@lunariastudiomarketing.com',phone:'+971 50 381 4957',address:'Dubai'},revision:1};
 assert(prospectSchema.safeParse(p).success);
@@ -19,3 +19,7 @@ const stats=salesMetrics([{kind:'prospect',data:p},{kind:'prospect',data:{...p,s
 assert.deepEqual(stats,{open:1,value:395000,followUps:1,awaiting:1,won:1,lost:1,rate:50});
 assert.equal(salesMetrics([],'2026-11-16').rate,0);
 console.log('Sales validation, money, expiry and conversion metrics: passed');
+
+assert.equal(quotationTerms(legacyDefaultTerms),defaultTerms);
+assert.equal(quotationTerms("Custom approved terms"),"Custom approved terms");
+assert(defaultTerms.includes("12. General Understanding"));
