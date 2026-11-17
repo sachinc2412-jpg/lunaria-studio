@@ -1,0 +1,84 @@
+/* Readable text throughout the CMS. Keep light text on dark surfaces. */
+.app-shell{--ink:#24221e;--muted:#5e574c;color:#24221e;font-weight:500}
+.app-shell :is(h1,h2,h3,h4){color:#24221e;font-weight:650}
+.app-shell :is(.page-heading h1,.overview-heading h1){font-weight:650}
+.app-shell :is(.eyebrow,.nav-label,.desk-label,.app-footer){color:#655947;font-weight:650}
+.app-shell .eyebrow{font-size:10px}
+.app-shell :is(.overview-caption,.breadcrumbs,.breadcrumbs strong,.sync-status){color:#5c5347;font-weight:550}
+.app-shell .overview-caption{font-size:13px}
+.app-shell .breadcrumbs,.app-shell .sync-status{font-size:12px}
+.app-shell .sidebar nav button,.app-shell .settings-link{color:#514a40;font-size:13px;font-weight:600}
+.app-shell .sidebar nav button.active,.app-shell .settings-link.active{color:#fff}
+.app-shell .workspace-label strong,.app-shell .user-block strong{color:#2e2a24;font-weight:650}
+.app-shell .workspace-label span,.app-shell .user-block small{color:#5e5548;font-weight:550}
+.app-shell .workspace-label .workspace-monogram{color:#775333;font-weight:650}
+.app-shell .global-search input{color:#373129;font-size:12px;font-weight:550}
+.app-shell input::placeholder{color:#72695d;opacity:1}
+.app-shell :is(.button,.text-button,.date-chip,.tabs button,.project-filters button,.quote-steps button){font-weight:600}
+.app-shell :is(.text-button,.sales-section-title button){color:#86562d}
+.app-shell .tabs button{color:#655a4b;font-size:12px}
+.app-shell .tabs button.active{color:#30291f;font-weight:650}
+.app-shell .button.primary{color:#fff}
+.app-shell .stat>div{color:#5b5143;font-size:12px;font-weight:600}
+.app-shell .stat>strong{color:#25221c;font-weight:650}
+.app-shell .stat p{color:#665b4b;font-size:11px;font-weight:550}
+.app-shell .stat p.warm{color:#a24f29}
+.app-shell .money small{color:#6c5c47;font-weight:600}
+.app-shell .panel-heading h3{font-weight:650}
+.app-shell :is(th,.table-footer){color:#615544;font-weight:650;font-size:11px}
+.app-shell td{color:#4f473b;font-size:12px;font-weight:500}
+.app-shell :is(.client-cell strong,td strong,.cell-title,.cell-title strong){color:#2e281f;font-size:12px;font-weight:650}
+.app-shell :is(.client-cell small,.cell-title small,.project-cell-sub){color:#675c4c;font-size:11px;font-weight:500}
+.app-shell :is(.muted,.inline-empty,.form-hint,.project-hint,.project-empty,.sales-empty,.lane-empty){color:#685d4d;font-weight:500}
+.app-shell .badge{font-weight:650;font-size:10px;color:#4b6037}
+.app-shell :is(.badge.overdue,.badge.lost){color:#934723}
+.app-shell :is(.badge.onboarding,.badge.in-progress){color:#80602d}
+.app-shell :is(.badge.paused,.badge.archived){color:#625a4d}
+.app-shell :is(.legend,.chart-col>span,.chart-col small){color:#6d5c46;font-weight:600}
+.app-shell :is(.legend,.chart-col>span){font-size:10px}
+.app-shell .chart-col small{font-size:11px}
+.app-shell .target-panel h3{color:#fff9f0;font-weight:600}
+.app-shell .target-top{color:#e5c6a0;font-size:10px;font-weight:650}
+.app-shell .target-bottom strong{color:#fffaf2;font-weight:600}
+.app-shell .target-bottom span,.app-shell .target-bottom .money small{color:#e0cbb0;font-weight:550}
+.app-shell .target-panel>button{color:#f0c696;font-weight:600;font-size:11px}
+.app-shell .sales-section-title>span{color:#3f382d;font-size:14px;font-weight:650}
+.app-shell .sales-summary>button>span{color:#5e5140;font-size:12px;font-weight:600}
+.app-shell .sales-summary strong{color:#29231c;font-weight:650}
+.app-shell .sales-summary small{color:#6c5d48;font-size:11px;font-weight:500}
+.app-shell :is(.sales-kpis>div>span,.project-stats>div>span,.quote-summary span){color:#5b5040;font-size:12px;font-weight:600}
+.app-shell :is(.sales-kpis strong,.project-stats strong,.quote-summary strong){color:#2a241c;font-weight:650}
+.app-shell :is(.project-stats small,.sales-kpis small){color:#655944;font-size:11px;font-weight:500}
+.app-shell .project-stats>div.project-profit :is(strong,.money){color:#3f5631;font-weight:650}
+.app-shell .project-stats>div.project-profit :is(span,small){color:#536244;font-weight:600}
+.app-shell .project-stats>div.project-profit.loss :is(strong,.money,span,small){color:#914721}
+.app-shell .project-overview-title b{color:#414a31;font-weight:650;font-size:13px}
+.app-shell :is(.project-overview-title small,.project-overview>span>small){color:#616449;font-size:11px;font-weight:550}
+.app-shell .project-overview .money{color:#424b32;font-weight:650}
+.app-shell .project-positive .money{color:#3c613e}
+.app-shell :is(.focus-item strong,.task-row strong){color:#342c21;font-size:12px;font-weight:650}
+.app-shell :is(.focus-item small,.task-row small,.focus-footer){color:#6c5b46;font-size:11px;font-weight:500}
+.app-shell :is(.deal-card,.pipeline-lane){color:#4f4538}
+.app-shell .deal-card :is(strong,h3){color:#2d251c;font-weight:650}
+.app-shell :is(.deal-card small,.deal-card p,.lane-value,.lane-empty){color:#6c5d48;font-weight:550}
+.app-shell .sales-status{font-weight:650}
+.app-shell :is(.detail-list dt,.profile-grid dt,.settings-grid dt){color:#615542;font-weight:600}
+.app-shell :is(.detail-list dd,.profile-grid dd,.settings-grid dd){color:#352b1e;font-weight:550}
+.app-shell .avatar{color:#65513a;font-weight:650}
+.app-shell :is(.demo-banner,.welcome-strip){color:#665439;font-weight:550}
+.editor-dialog,.sales-dialog{color:#32291e;font-weight:500}
+.editor-header h2{color:#29221a;font-weight:650}
+.editor-dialog .eyebrow{color:#735c3f;font-weight:650}
+.field>span{color:#584a37;font-size:12px;font-weight:650}
+.field input,.field select,.field textarea,.money-input{color:#30271c;font-weight:550}
+.field input::placeholder,.field textarea::placeholder{color:#756956;opacity:1}
+.editor-dialog :is(.form-hint,.editor-footer>span,.sales-form-title){color:#68583f;font-weight:550}
+.editor-dialog :is(.quote-steps button,.button){font-weight:600}
+.editor-dialog .button.primary{color:white}
+.entry-scene :is(.entry-eyebrow,.entry-field>span){color:#3b493e;font-weight:650}
+.entry-scene .entry-card h1{color:#25312b;font-weight:650}
+.entry-scene :is(.entry-card-heading>p:last-child,.entry-card-footer,.entry-disciplines){color:#4e5c50;font-weight:550}
+.entry-scene .entry-input input{color:#24372e;font-weight:550}
+.entry-scene .entry-input input::placeholder{color:#596e60;opacity:1}
+.entry-scene :is(.entry-submit,.entry-demo){font-weight:650}
+@media(max-width:600px){.app-shell .stat>div{font-size:12px}.app-shell .stat p{font-size:11px}.app-shell .sales-summary>button>span{font-size:12px}}
