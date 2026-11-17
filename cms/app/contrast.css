@@ -1,4 +1,10 @@
 /* Readable text throughout the CMS. Keep light text on dark surfaces. */
+/* Resolve legacy heading colours explicitly. */
+.app-shell .owner,.app-shell .service-tags>span{color:#5c5141;font-weight:550}
+.app-shell th{color:#615544!important}
+.app-shell .stat>div>span{color:#514635;font-weight:600}
+.app-shell .warm{color:#994620!important}
+.app-shell .owner-cell,.app-shell .owner-cell span,.app-shell .service-tag{color:#5c5141;font-weight:550}
 .app-shell{--ink:#24221e;--muted:#5e574c;color:#24221e;font-weight:500}
 .app-shell :is(h1,h2,h3,h4){color:#24221e;font-weight:650}
 .app-shell :is(.page-heading h1,.overview-heading h1){font-weight:650}
@@ -82,11 +88,3 @@
 .entry-scene .entry-input input::placeholder{color:#596e60;opacity:1}
 .entry-scene :is(.entry-submit,.entry-demo){font-weight:650}
 @media(max-width:600px){.app-shell .stat>div{font-size:12px}.app-shell .stat p{font-size:11px}.app-shell .sales-summary>button>span{font-size:12px}}
-
-/* Override the legacy table-header colour and strengthen nested labels. */
-.app-shell th{color:#615544!important}
-.app-shell .stat>div>span{color:#514635;font-weight:600}
-.app-shell .warm{color:#994620!important}
-.app-shell .owner-cell,.app-shell .owner-cell span,.app-shell .service-tag{color:#5c5141;font-weight:550}
-
-.app-shell .owner,.app-shell .service-tags>span{color:#5c5141;font-weight:550}
