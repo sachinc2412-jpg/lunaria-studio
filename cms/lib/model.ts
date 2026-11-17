@@ -1,11 +1,13 @@
+import {projectSchema} from './project-model';
 import {prospectSchema,quotationSchema} from './sales-model';
 import { z } from 'zod';
 const str = z.string().trim().max(500);
 const date = z.string().refine(v => !v || (/^\d{4}-\d{2}-\d{2}$/.test(v) && Number.isFinite(Date.parse(v+'T00:00:00Z')) && new Date(v+'T00:00:00Z').toISOString().slice(0,10) === v), 'Enter a valid date');
 const money = z.number().int().min(0).max(10000000000);
-export const kinds = ['client','service','invoice','task','team','settings','prospect','quotation'] as const;
+export const kinds = ['client','service','invoice','task','team','settings','prospect','quotation','project'] as const;
 export type Kind = typeof kinds[number];
 export const schemas = {
+ project:projectSchema,
  prospect:prospectSchema,
  quotation:quotationSchema,
  client: z.object({sourceProspectId:str.optional().default(''),name:str.min(1),contact:str,email:z.union([z.literal(''),z.string().email().max(250)]),phone:str,industry:str,website:str,status:z.enum(['Active','Onboarding','Paused','Prospect','Archived']),ownerId:str,notes:z.string().max(10000)}),

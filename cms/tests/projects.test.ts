@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {projectSchema,projectTotals,sumProjects,teamProjectTotals} from '../lib/project-model.ts';
+const p={name:'Website',clientId:'c1',chargeCents:395000,status:'In progress',due:'',notes:'',allocations:[{id:'a1',teamId:'t1',work:'Design',feeCents:100000,payments:[{id:'p1',amountCents:40000,date:'2026-01-01',method:'Bank transfer',note:''}]},{id:'a2',teamId:'t2',work:'Development',feeCents:120000,payments:[]}]};
+assert(projectSchema.safeParse(p).success);
+assert.deepEqual(projectTotals(p as any),{charge:395000,fees:220000,paid:40000,due:180000,profit:175000,margin:175000/395000*100});
+assert.equal(projectTotals({...p,chargeCents:100000} as any).profit,-120000);
+assert.equal(projectTotals({...p,allocations:[]} as any).profit,395000);
+assert.equal(sumProjects([p,p] as any).due,360000);
+assert.deepEqual(teamProjectTotals([p,p] as any,'t1'),{fees:200000,paid:80000,due:120000});
+assert(!projectSchema.safeParse({...p,allocations:[...p.allocations,p.allocations[0]]}).success);
+assert(!projectSchema.safeParse({...p,allocations:[{...p.allocations[0],feeCents:39999}]}).success);
+assert(!projectSchema.safeParse({...p,allocations:[{...p.allocations[0],payments:[{...p.allocations[0].payments[0],date:'2099-01-01'}]}]}).success);
+assert(!projectSchema.safeParse({...p,due:'2026-02-30'}).success);
+assert(!projectSchema.safeParse({...p,chargeCents:1.5}).success);
+console.log('Project profit, partial payouts, losses, team totals and validation passed');

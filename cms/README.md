@@ -11,3 +11,9 @@ Pipeline supports follow-ups, contact history, won/lost tracking and idempotent 
 Run `npm test` for sales calculations and validation. The additive database deployment is recorded in `sql/sales-and-quotations.sql`. Existing RLS and admin checks are retained.
 
 Quotation PDFs retain the reference cover and two studio-profile pages verbatim. Variable pages use the original orange section banners, recipient block and pricing hierarchy. All twelve reference terms are prefilled; existing quotes using the previous abbreviated defaults receive the full defaults on opening/export. Custom terms are preserved. The bundled reference asset contains only generic company pages, with the original client-specific quotation and contact pages removed.
+
+## Project profit
+
+Projects track an agreed client charge (AED, excluding VAT), per-member project fees, dated partial payout records and the remaining team balance. Expected profit is client charge minus all agreed team fees, including unpaid fees; it excludes other business expenses and does not represent cash collected. Projects are available globally and inside client profiles. Team balances aggregate the selected client/status/search filters. The dashboard excludes archived projects.
+
+The additive schema update is recorded in `sql/project-profit.sql`. `tests/project-profit.sql` checks the database transactionally and rolls back all fixtures. Payment history cannot be edited, removed or reassigned; stale versions and overpayments are rejected. Run `npm test` for the calculation and validation checks.
